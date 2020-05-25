@@ -1,4 +1,4 @@
-# Videogames
+# ビデオゲーム
 PS4  | PC  
  ---- | ----- 
  FinalFantasy VII Remake  | 赛博朋克2077 
