@@ -6,3 +6,4 @@ PS4  | PC | Switch
  | | Hades
  | | 空洞骑士
  | | Dark Souls III
+ | | Elder Ring
