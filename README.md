@@ -5,3 +5,4 @@ PS4  | PC | Switch
  Persona5 Royal  | NieR：Replicant
  | | Hades
  | | 空洞骑士
+ | | Dark Souls III
